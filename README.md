@@ -44,7 +44,5 @@ Visualizations such as donut charts and histograms were utilized to understand t
 - Deep learning models can be employed for advanced pattern recognition in email analysis.
 - Continuous refinement of the system will enhance email security and user experience by reducing the impact of spam.
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
